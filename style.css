@@ -15,6 +15,10 @@ main{
 }
 main img{
     box-shadow: 2px 2px 4px black;
+    width: 500px;
+}
+header p{
+    color: aliceblue;
 }
 header{
     display: grid;
