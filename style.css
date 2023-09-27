@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+body{
+    background: rgb(23, 23, 165);
+    color:rgb(233, 177, 75);
+    height: 100vh;
+    width: 100vw;
+}
+main{
+    height: 80%;
+    width: 100%;
+    display: grid;
+    place-items: center;
+}
+main img{
+    box-shadow: 2px 2px 4px black;
+}
+header{
+    display: grid;
+    place-items: center;
+    height: 10%;
+    text-align: center;
+}
+
+footer{
+    display: grid;
+    place-items: center;
+    background: rgb(159, 159, 187);
+    height: 10%;
+    color: black;
+}
